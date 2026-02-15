@@ -4,4 +4,3 @@
 
 💻 https://entropyvalley.com  
 📧 hello@entropyvalley.com  
-💬 @entrolab  
